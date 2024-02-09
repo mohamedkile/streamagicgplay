@@ -1,1 +1,1 @@
-# streamagicgplay
+# streamagicplay
